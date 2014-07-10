@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>stream-combiner</artifactId>
-    <version>0.4.4-1-SNAPSHOT</version>
+    <version>0.4.4-1</version>
     <name>stream-combiner</name>
     <description>WebJar for stream-combiner</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/stream-combiner</url>
         <connection>scm:git:https://github.com/webjars/stream-combiner.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/stream-combiner.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>stream-combiner-0.4.4-1</tag>
     </scm>
 
     <developers>
